@@ -22,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Enable Internet Information Services (IIS)
+- Created a resource group and virtual machine in Microsoft Azure
+- Enabled Internet Information Services (IIS)
 - Item 3
 - Item 4
 - Item 5
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/3wm4CS9.jpg)://i.imgur.com/Ei0b0Fi.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed and enabled Internet Information Services in Windows with CGI.
+Created a resource group and virtual machine in Microsoft Azure to install a ticketing system.
 World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
