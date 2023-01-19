@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Created a resource group and virtual machine in Microsoft Azure to install a ticketing system.
-World Wide Web Services -> Application Development Features -> [X] CGI
+
 </p>
 <br />
 
