@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[https](https://i.imgur.com/3wm4CS9.jpg)://i.imgur.com/Ei0b0Fi.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3wm4CS9.jpg)://i.imgur.com/Ei0b0Fi.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installed and enabled Internet Information Services in Windows with CGI.
